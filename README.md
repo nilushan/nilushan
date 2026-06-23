@@ -24,6 +24,16 @@ I like choosing the right tool over reinventing the wheel, designing before I bu
 
 ---
 
+## 🧭 How I work — engineering discipline, amplified by AI
+
+I built my craft the hard way, before AI tooling existed: researching from first principles, reading documentation cover to cover, and personally designing, implementing, and testing every part — and automating its delivery with CI/CD. That foundation means I understand *why* a system behaves the way it does — not just how to wire it together.
+
+I bring that same rigour to agentic development — **engineering, not vibe coding.** I plan the architecture and choose the stack up front, then drive AI tools with **spec-driven** and **test-driven development**: clear specifications and tests come *before* implementation. I give agents precise, well-scoped instructions — naming the tools, patterns, and architecture to use — and lean on reusable **agent skills**, **subagents**, and deliberate **context engineering** to keep output consistent, reviewable, and production-grade. The hard-won engineering judgement keeps the work correct and trustworthy; the tooling keeps it fast — **depth *and* velocity.**
+
+I'm also building *with* agents, not just coding with them — exploring **agentic systems and multi-agent orchestration** with **LangGraph**, function-calling / tool-use models (e.g. Nous **Hermes**), and self-hosted LLM deployments to design, run, and evaluate autonomous workflows.
+
+---
+
 ## 🛠️ Tech
 
 | | |
@@ -44,12 +54,3 @@ I like choosing the right tool over reinventing the wheel, designing before I bu
 | 🌐 **[profile-astro](https://github.com/nilushan/profile-astro)** &nbsp;·&nbsp; [nilushansilva.info →](https://www.nilushansilva.info) | My portfolio & blog — Astro + Tailwind, content-driven, with Mermaid / C4 architecture diagrams and an integrated chatbot. |
 | ⚡ **[nextsupabase](https://github.com/nilushan/nextsupabase)** | Full-stack Next.js + Supabase app — auth, Postgres, and server-side data access patterns. |
 | 🌿 **[go-pattern-garden](https://github.com/nilushan/go-pattern-garden)** | Software design patterns implemented in Go — idiomatic, runnable examples for studying structure and trade-offs. |
-
----
-
-## 📊 GitHub
-
-![Nilushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilushan&show_icons=true&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilushan&layout=compact&hide_border=true)
-
-<!-- Stat cards rendered by the third-party github-readme-stats service. Remove this block if you'd rather not depend on it. -->
