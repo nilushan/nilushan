@@ -6,7 +6,8 @@ I build full stack web products end to end — typed React/TypeScript frontends,
 
 I like choosing the right tool over reinventing the wheel, designing before I build, and shipping things that stay up.
 
-> 💼 **Quietly open to senior full-stack / cloud roles** — fastest way to reach me is email.
+> 💼 **Open to the right senior full-stack / cloud role** — fastest way to reach me is email.
+> I also take on contract & consulting work through my software studio, [OwnStack](https://www.ownstack.com.au).
 
 📫 &nbsp;[nilushan.silva@gmail.com](mailto:nilushan.silva@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nilushan-silva-27235310) &nbsp;·&nbsp; [nilushansilva.info](https://www.nilushansilva.info)
 
