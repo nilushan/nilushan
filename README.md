@@ -47,9 +47,3 @@ I like choosing the right tool over reinventing the wheel, designing before I bu
 
 ---
 
-## 📊 GitHub
-
-![Nilushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilushan&show_icons=true&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilushan&layout=compact&hide_border=true)
-
-<!-- Stat cards rendered by the third-party github-readme-stats service. Remove this block if you'd rather not depend on it. -->
