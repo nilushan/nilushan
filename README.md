@@ -53,5 +53,4 @@ I'm also building *with* agents, not just coding with them — exploring **agent
 |---|---|
 | 🔐 **[CryptDrop](https://github.com/nilushan/CryptDrop)** &nbsp;·&nbsp; [live demo →](https://cryptdrop-site.pages.dev/) | Browser-based OpenPGP key generation + client-side file encryption — keys never leave the browser. Astro · React 19 · OpenPGP.js, pnpm monorepo, Vitest, deployed on Cloudflare Pages. |
 | 🌐 **[profile-astro](https://github.com/nilushan/profile-astro)** &nbsp;·&nbsp; [nilushansilva.info →](https://www.nilushansilva.info) | My portfolio & blog — Astro + Tailwind, content-driven, with Mermaid / C4 architecture diagrams and an integrated chatbot. |
-| ⚡ **[nextsupabase](https://github.com/nilushan/nextsupabase)** | Full-stack Next.js + Supabase app — auth, Postgres, and server-side data access patterns. |
 | 🌿 **[go-pattern-garden](https://github.com/nilushan/go-pattern-garden)** | Software design patterns implemented in Go — idiomatic, runnable examples for studying structure and trade-offs. |
